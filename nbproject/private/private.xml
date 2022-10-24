@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/src/java/Controller/Perfil.java</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/web/poscadastro.jsp</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/web/perfis.jsp</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/web/index.html</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/src/java/Controller/PosCadastro.java</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/src/java/Entities/Mensagem.java</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/src/java/Controller/ExibirArquivo.java</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/web/css/css.css</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/web/images/fundo.png</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/web/excluir.jsp</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/src/java/DAO/MatchDAO.java</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/src/java/DAO/BaseDAO.java</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/src/java/Controller/Matches.java</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/web/a.html</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/web/js/script.js</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/src/java/Model/desktop.ini</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/src/java/DAO/ArquivoDAO.java</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/web/WEB-INF/glassfish-resources.xml</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/src/java/Entities/Escolaridade.java</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/src/java/Controller/Login.java</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/src/java/Controller/Deslike.java</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/src/java/Controller/Perfis.java</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/src/java/Controller/Like.java</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/src/java/Model/InteresseModel.java</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/web/cadastro.jsp</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/web/b.html</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/src/java/DAO/UsuarioDAO.java</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/web/js/perfis.js</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/web/login.jsp</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/src/java/Model/ArquivoModel.java</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/web/css/css3.css</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/web/matches.jsp</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/web/js/jquery-3.6.0.min.js</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/src/java/Model/UsuarioModel.java</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/src/conf/persistence.xml</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/src/java/DAO/EscolaridadeDAO.java</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/src/java/Entities/Interesse.java</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/web/c.html</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/src/java/Entities/Usuario.java</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/src/java/Controller/Cadastro.java</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/web/js/cortarimagem.js</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/src/java/Globals/Globals.java</file>
+            <file>file:/C:/Users/lucas/Google%20Drive/IFPR/Projeto%20Integrador/TCC%20-%20Giovana%20Seganfredo,%20Lucas%20Lessa%20e%20Luiz%20Henrique/Códigos/TCC/src/java/Model/MatchModel.java</file>
+        </group>
+    </open-files>
+</project-private>
